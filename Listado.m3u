@@ -4,7 +4,7 @@ https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-logo="https://iptv-epg.org/images/6Eb5OYncImveIY7iq8sWUTE2lIaciSJ5p9RiRY2EFRVJPzY633Cf7L08aLTu6wIAe8HMxXHxK_1xrPPdC0VdLYdDwGNsjkLmSt9cKnQgK8b_KpY" group-title="Nacional",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="https://iptv-epg.org/images/MJhnNl3uoZx7j1dZkS9QDxMZz_gOKJgPSieYoBAd5Hwp492xzA4DutLSbTFskBSMJGuhyU-xcrbxUQ3t9m2VzntP5PdN2jziDOKwtl6RDl0-AA" group-title="Nacional",Ecuavisa
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+http://45.224.97.181:9999/Ecuavisa/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="Gamavision" tvg-logo="https://iptv-epg.org/images/sBjaoYglvvkqIP_SB7VBDdW88saCtdc5EamCtyzhe7627biweAedkbeUiPFyNFk9DYnw8Q1AgjmyjMnlGLaISgUI8AOj5dOsC7SSJtef-NTC1xDg" group-title="Nacional",Gamavision
 http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-id="GaviotaTV.ec" tvg-name="Gaviota TV" tvg-logo="https://i.imgur.com/1vlZA6O.png" group-title="Nacional",Gaviota TV
@@ -30,15 +30,13 @@ http://138.121.15.230:9002/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica" tvg-name="AMC Series" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" group-title="Nacional",AMC Series
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetInternational.ec" tvg-name="Animal Planet" tvg-logo="https://iptv-epg.org/images/EouU373Igbe-xTIusGM6Vcb-JEaCpkdjbsettS8VHqriZzwMygRTnSIOS1-m-FZS0hQzD6Jyo9InDn0_5pCx1C2f3A9qCHPeuofqg6lviAhLzmaYH9rQ9XNfcN4tK189-L8X" group-title="Nacional",Animal Planet
-http://190.128.214.97:64333/play/a01n/index.m3u8
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-id="AVIRewind" tvg-name="AVI Rewind" tvg-logo="https://zplay.cl/LogosV2/AVIREWINDS_NEW.png" group-title="Nacional",AVI Rewind
 http://45.70.201.81:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.ec" tvg-name="AXN" tvg-logo="https://iptv-epg.org/images/LYTvo8GzC7znnqHXAbpc8pxG6N9ejEtbxikPYRzd8bIp95YWbl43M9kzIi-VBgvtLRmubq0UXZzSIZ_Eq_xE9SIbJF1kbawFYNbN9XVrmQDFoLHT6QKrEOQ" group-title="Nacional",AXN
 http://181.119.66.28:8081/AXN/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.ec" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Nacional",BabyFirst
 http://168.196.127.137:6001/play/a06j/index.m3u8
-#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="Nacional",Bob Esponja
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica-Panregional.ec" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="CinePremium" tvg-name="Cine Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png" group-title="Nacional",Cine Premium
@@ -49,8 +47,6 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_ch
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinecanalColombia.ec" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Nacional",Cinecanal
 http://190.61.47.54:8000/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxPanamerican.ec" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Nacional",Cinemax
-https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Comedy Central (Ecuador).ec" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Nacional",Comedy Central
 http://181.78.79.131:8000/play/a0mu
 #EXTINF:-1 tvg-id="DePeliculaUS" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/960px-DPel%C3%ADcula_2021.svg.png" group-title="Nacional",De Pelicula
