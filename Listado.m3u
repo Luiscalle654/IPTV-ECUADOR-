@@ -37,7 +37,7 @@ http://45.70.201.81:8000/play/a010/index.m3u8
 http://181.119.66.28:8081/AXN/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.ec" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Nacional",BabyFirst
 http://168.196.127.137:6001/play/a06j/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica-Panregional.ec" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
+#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(Ecuador).ec" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="CinePremium" tvg-name="Cine Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png" group-title="Nacional",Cine Premium
 http://45.167.1.138:8000/play/a06s
