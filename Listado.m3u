@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AmericaEstereoQuito" tvg-name="América Estéreo Quito" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="Nacional",América Estéreo Quito
-https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-logo="https://iptv-epg.org/images/6Eb5OYncImveIY7iq8sWUTE2lIaciSJ5p9RiRY2EFRVJPzY633Cf7L08aLTu6wIAe8HMxXHxK_1xrPPdC0VdLYdDwGNsjkLmSt9cKnQgK8b_KpY" group-title="Nacional",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="https://iptv-epg.org/images/MJhnNl3uoZx7j1dZkS9QDxMZz_gOKJgPSieYoBAd5Hwp492xzA4DutLSbTFskBSMJGuhyU-xcrbxUQ3t9m2VzntP5PdN2jziDOKwtl6RDl0-AA" group-title="Nacional",Ecuavisa
@@ -37,7 +35,7 @@ http://45.70.201.81:8000/play/a010/index.m3u8
 http://181.119.66.28:8081/AXN/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.ec" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Nacional",BabyFirst
 http://168.196.127.137:6001/play/a06j/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Cartoon.Network.(Ecuador).ec" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica-Panregional.ec" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="CinePremium" tvg-name="Cine Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png" group-title="Nacional",Cine Premium
 http://45.167.1.138:8000/play/a06s
@@ -55,6 +53,8 @@ http://138.121.15.230:9002/DEPELICULA/index.m3u8
 https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 #EXTINF:-1 tvg-id="TheDiscoveryChannelLatinAmerica.ec" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Nacional",Discovery Channel
 http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-name="DiscoveryHomeandHealthLatinAmerica.ec" Tvg-name-"Discovery Home & Health" tvg.logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="Nacional",Discovery Home and Health
+http://190.61.42.218:9000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.ec" tvg-name="Discovery Kids" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Nacional",Discovery Kids
 http://38.134.250.110:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Nacional",Discovery Science
@@ -75,9 +75,11 @@ http://190.61.42.218:9000/play/a00z/index.m3u8
 http://15.204.146.163:8002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="E!EntertainmentTelevisionAndes.ec" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Nacional",E!
 http://72.1.184.5:8089/play/a05d/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.ec" tvg-name="ESPN 2" tvg-logo="https://iptv-epg.org/images/W3zee9k_gm2gYNnTreTGDQb28UfEYLCqcEGMG2HZt3bRcMmjOPRwNabWppGbI94drQpx7pyvyW84Wravlz487YtlzzSylQiDeX0Gcp2xxA" group-title="Nacional",ESPN 2
+#EXTINF:-1 tvg-id="ESPNColombia.ec" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Nacional",ESPN
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2Colombia.ec" tvg-name="ESPN 2" tvg-logo="https://iptv-epg.org/images/W3zee9k_gm2gYNnTreTGDQb28UfEYLCqcEGMG2HZt3bRcMmjOPRwNabWppGbI94drQpx7pyvyW84Wravlz487YtlzzSylQiDeX0Gcp2xxA" group-title="Nacional",ESPN 2
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
-#EXTINF:-1 tvg-id="ESPN3.ec" tvg-name="ESPN 3" tvg-logo="https://iptv-epg.org/images/W3zee9k_gm2gYNnTreTGDQb28UfEYLCqcEGMG2HZt3bRcMmjOPRwNabWppGbI94drQpx7pyvyW84Wravlz487YtlzzSylQiDeX0Gcp2xxA" group-title="Nacional",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3Andina.ec" tvg-name="ESPN 3" tvg-logo="https://iptv-epg.org/images/W3zee9k_gm2gYNnTreTGDQb28UfEYLCqcEGMG2HZt3bRcMmjOPRwNabWppGbI94drQpx7pyvyW84Wravlz487YtlzzSylQiDeX0Gcp2xxA" group-title="Nacional",ESPN 3
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 #EXTINF:-1 tvg-id="ESPN4.ec" tvg-name="ESPN 4" tvg-logo="https://iptv-epg.org/images/W3zee9k_gm2gYNnTreTGDQb28UfEYLCqcEGMG2HZt3bRcMmjOPRwNabWppGbI94drQpx7pyvyW84Wravlz487YtlzzSylQiDeX0Gcp2xxA" group-title="Nacional",ESPN 4
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
@@ -91,8 +93,6 @@ https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkLatinAmerica.us" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="Nacional",Food Network
 http://168.196.127.137:6001/play/a09v/index.m3u8
-#EXTINF:-1 tvg-id="TNTSeriesPAN.ec" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Nacional",TNT Series
-http://190.93.224.42/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmericaColombia.ec" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Nacional",FX
 https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8
 #EXTINF:-1 tvg-id="HBO.ec" tvg-name="HBO" tvg-logo="https://iptv-epg.org/images/RO_jCJ1fPubkJw1WHmqeMXhXiJ8XIsWAw1bJWS4SbtMRkCqRvvYk3eaEnZSZush5-oVY8G6j7h_QPiY_MbkhPG1GIrKgTiIyKiC4uj0" group-title="Nacional",HBO
@@ -141,23 +141,19 @@ http://38.134.250.110:8000/play/a00n/index.m3u8
 http://181.78.211.244:8005/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.ec" tvg-name="TNT" tvg-logo="https://iptv-epg.org/images/j-NhunNk6IZRy8BcdoGzGEeI8RPy7IBYt7F6YGtUWzQlCuzvwUAMtmiDc3inDd-BNZ0gm6Hog_fv28IkLottO9x31AO6zMI1BiUz3tbenhZFedXl" group-title="Nacional",TNT
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
-#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional" tvg-name="TNT Series Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/1920px-TNT_Series_2025.svg.png" group-title="Nacional",TNT Series Latin America (1080p)
-http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="TLNovelas.ec" tvg-name="TLNovelas" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Nacional",TLNovelas
+http://190.61.42.218:9000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeriesPAN.ec" tvg-name="TNT Series " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/1920px-TNT_Series_2025.svg.png" group-title="Nacional",TNT Series
+http://190.93.224.42/FX/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Nacional",Tooncast
 http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Nacional",UniMas
 http://190.197.41.183/Unimas/index.m3u8
-#EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://iptv-epg.org/images/Fq0FEvqjoBX1l0lhVqchWSwIJZPi-90gfIKSCKqvzVtWeZcC8AJomWpfemjXq7eS6mzY6E04pVk9uHwn7piunLEUGQ-nSkITHTwhQS2xs78Hu5neB3Eh" group-title="Nacional",Universal Cinema
+#EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Nacional",Universal Cinema
 http://45.167.1.138:8000/play/a06m
 #EXTINF:-1 tvg-id="UniversalCrime.ec" tvg-name="Universal Crime" tvg-logo="https://iptv-epg.org/images/susTq3Nd6PxQkP4xHKYSdEiDTEQootqNzjCsxcQjIADWLCzscjT-TJ1GsWTOO9qQfpYxTR5OLg99Ggi_8tSotpwb70Yq_BnHZRa1nGXk6aOany4RtaCd-A" group-title="Nacional",Universal Crime
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversalChannelLatinAmerica.ec" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Nacional",Universal TV
 http://38.134.250.110:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Nacional",USA Network
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/SYFY.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelAndes.ec" tvg-name="Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" group-title="Nacional",Warner Channel
 http://190.61.42.218:9000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="XITENuevoLatino" tvg-name="XITE Nuevo Latino" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="Nacional",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-id="XITESiempreLatino" tvg-name="XITE Siempre Latino" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="Nacional",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
